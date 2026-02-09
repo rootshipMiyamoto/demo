@@ -1,0 +1,52 @@
+.page {
+  max-width: 980px;
+  margin: 40px auto;
+  padding: 0 16px;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  margin-bottom: 16px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.muted {
+  color: #666;
+  margin: 6px 0 0;
+}
+
+.card {
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 14px;
+  background: white;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th,
+td {
+  padding: 10px 8px;
+  border-bottom: 1px solid #f2f2f2;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.strong {
+  font-weight: 600;
+}
+
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", monospace;
+}
