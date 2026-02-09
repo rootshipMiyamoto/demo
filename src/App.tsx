@@ -23,8 +23,8 @@ const USERS: User[] = [
   },
   {
     id: "u002",
-    name: "白林 さくら",
-    email: "shirabayashi@example.com",
+    name: "竹田 さくら",
+    email: "takeda@example.com",
     role: "Member",
     team: "B",
     status: "Active",
@@ -41,8 +41,8 @@ const USERS: User[] = [
   },
   {
     id: "u004",
-    name: "秋元 りょう",
-    email: "akimoto@example.com",
+    name: "網野 りょう",
+    email: "amino@example.com",
     role: "Viewer",
     team: "C",
     status: "Suspended",
@@ -50,8 +50,8 @@ const USERS: User[] = [
   },
   {
     id: "u005",
-    name: "丹 まこと",
-    email: "tan@example.com",
+    name: "山田 まこと",
+    email: "yamada@example.com",
     role: "Member",
     team: "B",
     status: "Active",
